@@ -1,4 +1,16 @@
-*{
-    margin: 0;
-    padding: 0;   
+.texto-menor{
+    font-size: 12px;
+}
+
+.div-facilidades{
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+
+.verde-limao {
+    color: #DAFF01;
 }
